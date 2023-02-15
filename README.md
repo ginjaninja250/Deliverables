@@ -1,1 +1,1 @@
-# Deliverables is my repo for people to look at my 340 Deliverable project
+# Deliverables is my repo for people to look at my 340 Deliverable project. If you are reading this Mike Stien please note that this is a private repo and just an easy way for me to share it with my friend who is a devloper
