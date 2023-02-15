@@ -61,6 +61,8 @@ public class DelivB {
 			System.out.println("\t" + totalCoins);
 			output.println("\t" + totalCoins);
 		}
+		System.out.println("Dynamic Program, same formatting");
+		output.println("Dynamic Program, same formatting");
 		for (int i = 1; i <= 100; i++) {
 			int[] coins =  bottomUpDynamicChange(coinValues, i);
 			int totalCoins = 0;
